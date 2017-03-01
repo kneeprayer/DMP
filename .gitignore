@@ -70,3 +70,4 @@ GitHub.sublime-settings
 src/
 # for mysql DB Data
 mysql/data/
+.env
